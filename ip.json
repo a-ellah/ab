@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cora",
+    "name": "Radio Quoran Kareem إذاعــة القرآن الكريم",
+    "url": "http://s2.voscast.com:12312/;",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/cora.png"
+  },
+  {
+    "id": "corr",
+    "name": "MP3 Quran المكتبة الصوتية للقرآن الكريم",
+    "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/corr.png"
+  },
+  {
+    "id": "coor",
+    "name": "Radio Quoran إذاعــة القرآن",
+    "url": "https://admdn7ta.cdn.mangomolo.com/quranrdo/quranrdo.stream_aac/chunklist.m3u8",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/coor.png"
+  },
+  {
+    "id": "qorr",
+    "name": "93.1 إذاعــة القرآن الكريم",
+    "url": "http://listen.qkradio.com.au:8382/listen.mp3",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/qorr.png"
+  },
+  {
+    "id": "qooo",
+    "name": "Radio Quoran القرآن الكريم",
+    "url": "http://104.7.66.64:8095/;?icy=http",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/qooo.png"
+  }
+]
