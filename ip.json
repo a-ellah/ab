@@ -1,5 +1,357 @@
 [
   {
+    "id": "cora",
+    "name": "Radio Quoran Kareem إذاعــة القرآن الكريم",
+    "url": "http://s2.voscast.com:12312/;",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/cora.png"
+  },
+  {
+    "id": "corr",
+    "name": "MP3 Quran المكتبة الصوتية للقرآن الكريم",
+    "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/corr.png"
+  },
+  {
+    "id": "coor",
+    "name": "Radio Quoran إذاعــة القرآن",
+    "url": "https://admdn7ta.cdn.mangomolo.com/quranrdo/quranrdo.stream_aac/chunklist.m3u8",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/coor.png"
+  },
+  {
+    "id": "qorr",
+    "name": "93.1 إذاعــة القرآن الكريم",
+    "url": "http://listen.qkradio.com.au:8382/listen.mp3",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/qorr.png"
+  },
+  {
+    "id": "qooo",
+    "name": "Radio Quoran القرآن الكريم",
+    "url": "http://104.7.66.64:8095/;?icy=http",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/qooo.png"
+  },
+  {
+    "id": "cha1",
+    "name": "Radio chaine 1 الإذاعــة الأولى",
+    "url": "https://radiochaine1.ice.infomaniak.ch/chaine1.mp3",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/cha1.png"
+  },
+  {
+    "id": "cha2",
+    "name": "Radio chaine 2 الإذاعــة الثانية",
+    "url": "https://radiochaine2.ice.infomaniak.ch/chaine2.mp3",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/cha2.png"
+  },
+  {
+    "id": "cha3",
+    "name": "Radio chaine 3 الإذاعــة الثالثة",
+    "url": "https://radiochaine3.ice.infomaniak.ch/chaine3.mp3",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/cha3.png"
+  },
+  {
+    "id": "inte",
+    "name": "Radio Internationale الإذاعــة الدولية",
+    "url": "https://radiointernationale.ice.infomaniak.ch/internationale.mp3",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/inte.png"
+  },
+  {
+    "id": "qran",
+    "name": "Radio Quoran إذاعــة القرآن الكريم",
+    "url": "https://radiocoran.ice.infomaniak.ch/coran.mp3",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/qran.png"
+  },
+  {
+    "id": "cult",
+    "name": "Radio culture الإذاعــة الثقافية",
+    "url": "https://radioculture.ice.infomaniak.ch/culture.mp3",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/cult.png"
+  },
+  {
+    "id": "bahd",
+    "name": "Radio Bahdja إذاعــة البهجة",
+    "url": "https://radioelbahdja.ice.infomaniak.ch/elbahdja.mp3",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/bahd.png"
+  },
+  {
+    "id": "orie",
+    "name": "Radio orientale إذاعــة الشرقي",
+    "url": "https://n12.rcs.revma.com/7hnrkawf4p8uv.mp3?rj-ttl=5&rj-tok=AAABme78K4QAHnTdCFbSGTGO4Q",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/orie.png"
+  },
+  {
+    "id": "magh",
+    "name": "Radio 100% إذاعــة 100% مغاربة",
+    "url": "http://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/magh.png"
+  },
+  {
+    "id": "tara",
+    "name": "Radio tarab  إذاعــة الطرب",
+    "url": "https://streamer.mada.ps:8201/tarab",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/tara.png"
+  },
+  {
+    "id": "dzai",
+    "name": "Radio dzair  إذاعــة دزاير",
+    "url": "https://stream-155.zeno.fm/xa4yhh4k838uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4YTR5aGg0azgzOHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InZDb3c2TF9CUmZPM3pjYkxwWnk4UXciLCJpYXQiOjE3NjA2NTE3ODksImV4cCI6MTc2MDY1MTg0OX0.gMirXLGwZB9g9JNsn5EORcyjfc1em7CuoJMkKlN_F70&adtonosListenerId=01H0QN7N0FWX24VBHTFRG8BQWH&amb-uid=3898065775428749197&an-uid=0&aw_0_req_lsid=a577bf4b67647738ae1c2364893d5cad&dot-uid=0ab2220300c5665293f3e767&triton-uid=cookie%3A26424d7d-26e2-4560-a3ef-c11d253ab62c",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/dzai.png"
+  },
+  {
+    "id": "chaa",
+    "name": "Radio chaabi  إذاعــة الشعبي",
+    "url": "https://stream-179.zeno.fm/y9rchc1djgavv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5OXJjaGMxZGpnYXZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im5wTXFGbG5BU2VPWFloeGZIZTRNTUEiLCJpYXQiOjE3NjA2NTE3MzgsImV4cCI6MTc2MDY1MTc5OH0.PWT0dyzDzbGj_19AG8BIjMfql5tvig0ajC9uQYOHoPw",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/chaa.png"
+  },
+  {
+    "id": "aure",
+    "name": "Radio aures  إذاعــة الشاوي",
+    "url": "https://radiodzair.net:8050/aures?shoutcast",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/aure.png"
+  },
+  {
+    "id": "anda",
+    "name": "Radio andalos إذاعــة الأندلسي",
+    "url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/anda.png"
+  },
+  {
+    "id": "saha",
+    "name": "Radio sahara  إذاعــة الصحراوي",
+    "url": "https://radiodzair.net:8040/sahara?shoutcast",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/saha.png"
+  },
+  {
+    "id": "izur",
+    "name": "Radio izuran إذاعــة القبائلي",
+    "url": "https://radiodzair.net:8030/izuran?shoutcast",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/izur.png"
+  },
+  {
+    "id": "jowr",
+    "name": "Radio jow rai  إذاعــة جو راي",
+    "url": "https://stream-157.zeno.fm/qgw73bqh5qruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxZ3c3M2JxaDVxcnV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Il9aRUZDOXRpUnd1TmxJMGFkMlotd2ciLCJpYXQiOjE3NjA2NTAzMDYsImV4cCI6MTc2MDY1MDM2Nn0.f_5oPI9sOfl9jvLiFTAGtuNVgLwfka804u3ysig6KeU",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/jowr.png"
+  },
+  {
+    "id": "joww",
+    "name": "Radio jow   إذاعــة جــو",
+    "url": "https://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/joww.png"
+  },
+  {
+    "id": "jile",
+    "name": "Radio jile fm إذاعــة جيل",
+    "url": "https://radiojeunesse.ice.infomaniak.ch/jeunesse.mp3",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/jile.png"
+  },
+  {
+    "id": "afri",
+    "name": "Radio Africa Hits إذاعــة أفريكا",
+    "url": "https://radiodzair.net:8200/radio.mp3?shoutcast",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/afri.png"
+  },
+  {
+    "id": "hawa",
+    "name": "Radio hawana إذاعــة هوانا",
+    "url": "https://radio4.pro-fhi.net/radio/9062/stream  ",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/hawa.png"
+  },
+  {
+    "id": "rrrr",
+    "name": "Radio R إذاعــة أر",
+    "url": "http://radior.video.muni.cz:8000/FSS_mp3-128.mp3",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/rrrr.png"
+  },
+  {
+    "id": "hits1",
+    "name": "Radio Hits 1 إذاعــة هيتس",
+    "url": "https://hits1-audiomediaradio.radioca.st/hits1",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/hits1.png"
+  },
+  {
+    "id": "marina",
+    "name": "Radio MARINA Fm إذاعــة مرينا",
+    "url": "https://ffs3.gulfsat.com/MARINA-FM-904/tracks-a1/mono.m3u8",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/marina.png"
+  },
+  {
+    "id": "alarabiya",
+    "name": "Radio alarabiya Fm إذاعــة العربية",
+    "url": "https://fm.alarabiya.net/fm/myStream/chunklist_w1443805311.m3u8",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/alarabiya.png"
+  },
+  {
+    "id": "aljazeera",
+    "name": "Radio Aljazeera إذاعــة الجزيرة",
+    "url": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/aljazeera.png"
+  },
+  {
+    "id": "asharq",
+    "name": "Radio asharq إذاعــة الشرق",
+    "url": "https://svs.itworkscdn.net/asharqradioalive/asharqradioa/chunks.m3u8",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/asharq.png"
+  },
+  {
+    "id": "montecarlo",
+    "name": "Radio Montecarlo إذاعــة مونت كارلو",
+    "url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/montecarlo.png"
+  },
+  {
+    "id": "jeddah",
+    "name": "Radio jeddah إذاعــة جدة",
+    "url": "https://live.kwikmotion.com/sbrksajeddahradiolive/ksajeddahradio/chunks.m3u8",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/jeddah.png"
+  },
+  {
+    "id": "sunna",
+    "name": "Radio Sunna إذاعــة السنة",
+    "url": "http://andromeda.shoutca.st:8189/stream",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/sunna.png"
+  },
+  {
+    "id": "arabian",
+    "name": "Radio Arabian Love إذاعــة عربيان  ",
+    "url": "http://s9.yesstreaming.net:7036/stream",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/arabian.png"
+  },
+  {
+    "id": "dahab",
+    "name": "Radio Dahab  راديو دهب",
+    "url": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/dahab.png"
+  },
+  {
+    "id": "husna",
+    "name": "Radio Husna إذاعــة حسنى",
+    "url": "https://s2.voscast.com:10445/stream",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/husna.png"
+  },
+  {
+    "id": "yaqeen",
+    "name": "Radio Yaqeen FM  إذاعــة يقين",
+    "url": "http://45.63.116.205:8000/stream4",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/yaqeen.png"
+  },
+  {
+    "id": "allzic",
+    "name": "Radio Allzic إذاعــة أليز",
+    "url": "https://allzic33.ice.infomaniak.ch/allzic33.mp3",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/allzic.png"
+  },
+  {
+    "id": "amrdiab",
+    "name": "Radio AMR DIAB FM إذاعــة عمرو ذياب",
+    "url": "https://stream-153.zeno.fm/xa4yhh4k838uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4YTR5aGg0azgzOHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjRtSGE4Z1l6VDFXMXVhQjhLUVdTbUEiLCJpYXQiOjE3NjIyODIyNDQsImV4cCI6MTc2MjI4MjMwNH0._d7znxUChi5V7x33JIWJsiNWu5mebVAtEggHuI0ixaY&adtonosListenerId=01H0QN7N0FWX24VBHTFRG8BQWH&amb-uid=3898065775428749197&an-uid=0&aw_0_req_lsid=a577bf4b67647738ae1c2364893d5cad&dot-uid=0ab2220300c5665293f3e767&triton-uid=cookie%3A26424d7d-26e2-4560-a3ef-c11d253ab62c",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/amrdiab.png"
+  },
+  {
+    "id": "beur",
+    "name": "Radio beur إذاعــة بور",
+    "url": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/beur.png"
+  },
+  {
+    "id": "boll",
+    "name": "Radio bollywood إذاعــة بوليود",
+    "url": "https://drive.uber.radio/uber/bollywoodmix/icecast.audio",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/boll.png"
+  },
+  {
+    "id": "hawa",
+    "name": "Radio Hits 1 إذاعــة هيتس",
+    "url": "https://radio7.pro-fhi.net/live/hits1radio  ",
+    "title": "Radio Algeria",
+    "country": "Algeria",
+    "icon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/hawa.png"
+  },
+  {
     "id": "ra01",
     "name": "Radio adrar إذاعــة أدرار",
     "url": "https://radioadrar.ice.infomaniak.ch/adrar.mp3",
